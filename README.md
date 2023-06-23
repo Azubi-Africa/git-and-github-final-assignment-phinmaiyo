@@ -22,7 +22,7 @@ The below table must contain the details of the repositories you will create, fi
 |:--:|:--------------:|:--------------:|:--------------:|
 | 1 |  -  Caesar-s-Cipher-Decryption           |  - an algorithm to decrypt internal messages using Caesar's Cipher           | https://github.com/phinmaiyo/Caesar-s-Cipher-Decryption.git
 | 2 |  -  Inventory-program           |  -  the program allows users to # 1 list all inventory # 2 add object to inventory # 3 search object in inventory # 4 delete object in inventory           | https://github.com/phinmaiyo/Inventory-program.git       |
-| 3 |  - love-calculator-program            |  -  the program allows one to input their name and that of their partner to calculate their compatibility score           | https://github.com/phinmaiyo/love-calculator-program.git       |
+| 3 |  - love-calculator-program            |  -  the program allows one to input their name and that of their partner to calculate their compatibility score           | https://github.com/phinmaiyo/love-calculator-program.git      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
